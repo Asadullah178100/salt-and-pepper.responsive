@@ -26,3 +26,13 @@
     padding: 15px 20px;
     cursor: pointer;
 }
+
+#carousel-image{
+    width:1348px ;
+   
+}
+@media(max-width:800px){
+    #carousel-image{
+        width: 720px;
+    }
+}

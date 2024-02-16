@@ -7,8 +7,16 @@
 #logo{
     width: 30%;
 }
+#logo2{
+    width: 50%;
+}
 
 #icon{
     font-size: 35px;
     display: none;
+}
+#get-direction{
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
 }
