@@ -1,0 +1,21 @@
+
+
+
+#logo{
+    width: 30%;
+}
+
+#icon{
+    font-size: 35px;
+    display: none;
+}
+@media(max-width:800px){
+    .nav-items{
+        display: none;
+    }
+    
+    #icon{
+        display: inline-block ;
+    }
+
+}
